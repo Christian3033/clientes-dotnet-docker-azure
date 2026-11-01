@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e81077f2-fd91-4162-b63e-715f180f72dc/resourceGroups/rg_umg_cagt/providers/Microsoft.Web/sites/api-clientes-christian-garcia",
+    "appService.deploySubpath": "bin\\Publish"
+}
